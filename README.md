@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente trabalhando como Frelancer com PHP, JS.<br><br>📚 Estudando Laravel, React.</p>
+<p align="left">🔭 Atualmente trabalhando como Dev. Fullstack.<br><br>📚 Estudando Laravel, React.</p>
 <details>
   <summary>👨‍💻 Um pouco mais sobre Mim</summary>
 
