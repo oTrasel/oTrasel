@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🔭 Atualmente trabalhando como Dev. Fullstack.<br><br>📚 Estudando Laravel, React.</p>
+<p align="left">🔭 Atualmente trabalhando como Dev. Fullstack.<br><br>📚 Estudando Laravel, VueJS</p>
 <details>
   <summary>👨‍💻 Um pouco mais sobre Mim</summary>
 
-  - 💬 Tenho 22 anos e atualmente moro no Brasil. Possuo experiência em SQL, PHP e JavaScript. Atualmente, estou me aprofundando no Framework Laravel para desenvolvimento backend e no  VueJS para desenvolvimento frontend.
+  - 💬 Tenho 22 anos e atualmente moro no Brasil. Possuo experiência em SQL, PHP e JavaScript. Atualmente, estou me aprofundando no Framework Laravel para desenvolvimento backend e no VueJS para desenvolvimento frontend.
 
 </details>
 <!--Links-->
