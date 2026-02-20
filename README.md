@@ -14,7 +14,7 @@
 ## Sobre Mim
 
 - Desenvolvedor **Full Stack** com experiência em desenvolvimento web
-- 22 anos, baseado no **Brasil**
+- 24 anos.
 - Atualmente trabalhando com **Laravel** e **VueJS**
 - Constantemente aprendendo e evoluindo minhas habilidades
 - Apaixonado por transformar ideias em código
